@@ -8,3 +8,4 @@ I have started working on my audio project, and so far have found it easier than
 Today I worked on adjusting the amplification of the audio. I struggled with using the envelope tool at first, but after multiple attempts, I finally figured out how to select things and properly make them softer and quieter. I also utilized the fade in and fade out tool for the music to make the transitioning smoother. I would like to add a few more tracks later to enhance the mysterious mood of the piece. I'm also going to post the links for the audio so you can follow them to where I found them. 
 
 Also, I just realized that everytime I've been uploading a new audio file it's been replacing the old ones. Oops.
+
